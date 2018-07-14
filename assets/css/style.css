@@ -1,0 +1,135 @@
+body {
+    /* background-color: #c52626; */
+
+    background: url(../images/forrest.jpg);
+    font-family: 'Creepster';
+    color: green;
+}
+
+.navbar{
+    size: 20px;
+}
+input::placeholder { 
+    color: green; 
+    }
+
+    /* .navbar-inverse .navbar-brand {
+        display: flex;
+        align-items: center;
+        padding: 5px;
+      }
+      .navbar-brand img {
+        height: 100%;
+        margin-right: 20px;
+      }     */
+
+#map {
+    width:200px;
+    height:500px;
+}
+
+.input-label {
+    color: white;
+    font-size: 225%;
+    letter-spacing: 5px;
+}
+
+#loginSubmitBtn {
+    Color: white;
+    font-size: 20px;
+    letter-spacing: 5 px;
+    background-color: green;
+    padding: 10px;
+    width=75%;
+}
+
+#createGameSubmitBtn {
+    Color: white;
+    font-size: 20px;
+    letter-spacing: 5 px;
+    background-color: green;
+    padding: 10px;
+    width=75%;
+}
+
+.register {
+    color: red;
+    font-size: 225%;
+    letter-spacing: 15 px;
+}
+
+.join-game {
+    color: green;
+    font-size:150%;
+    letter-spacing: 5 px;
+}
+
+.HvZ {
+    color: black;
+    font-size: 200%;
+    letter-spacing: 5 px;
+}
+
+.home {
+    color: black;
+    font-size: 150%;
+    letter-spacing: 5 px;
+}
+
+.create-game {
+    color: darkslategrey;
+    font-size: 150%;
+    letter-spacing: 5 px;
+}
+
+.table {
+    color: red;
+    background-color: black;
+    font-size: 125%;
+    letter-spacing: 5px;
+}
+
+.form-group {
+    color: red;
+    font-size: 125%;
+    letter-spacing: 5px;
+}
+
+#chatDiv {
+    background-color: gainsboro;
+    color: black;
+    overflow: scroll;
+    height: 200px;
+    width: 100%;
+    line-height: 1;
+    font-family: arial;
+}
+
+
+
+#statsDiv {
+}
+nav {
+    margin-bottom: 10px;
+}
+
+.btn {
+    margin:2px;
+}
+
+#statsDiv, #infoDiv {
+    font-family: arial;
+    text-align: center;
+    font-size: 12px;
+    opacity: 0.7;
+    color: white;
+}
+tr {
+    background-color: white;
+    color: black;
+    opacity: .75;
+}
+th {
+    background-color: black;
+    color: red;
+}
