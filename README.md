@@ -1,2 +1,1 @@
-# demo-thingy
-lets learn how to do this
+https://milobekins.github.io/project1Redo/
